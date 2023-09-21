@@ -10,6 +10,7 @@ C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\en
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -22,6 +23,7 @@ C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\en
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\daniel.males\Documents\Cursos Desarrollo\WebApiFundamentals\07\demos\end\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
